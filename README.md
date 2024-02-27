@@ -13,7 +13,7 @@ Dashboard and Dataset, modified based on and retrieved from [DataScience RoadMap
 <br>
 
 #### <a href="https://public.tableau.com/app/profile/joy.cheng/viz/SalesKPIDashboard_17086827950560/SalesDashboard"> 2. Sales KPI Dashboard </a>
-A KPI dashboard for sales that compares the current and last year. 
+A KPI dashboard for sales that compares the current and last year, with filters available. 
 
 Dashboard and Dataset, modified based on and retrieved from [@datatutorial1](https://youtu.be/NoppQVdd8U8?si=493UoLmopyq9mK1b).
 
