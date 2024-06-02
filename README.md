@@ -1,7 +1,7 @@
 # Tableau Projects
 Interactive dashboards and data visualization work
 > [!TIP]  
-> Please click on the ***Titles*** to view and interact with the dashboards. 
+> Please click on the ***Title links*** to view and interact with the dashboards. 
 
 <br>
 
